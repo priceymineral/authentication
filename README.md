@@ -1,2 +1,7 @@
 # authentication
-Authentication in Node.js with MongoDB, bcrypt, and JWT web Tokens with cookies 🍪
+Authentication using:
+  - Node.js
+  - MongoDB
+  - bcrypt
+  - JWT web Tokens
+  - with cookies 🍪
